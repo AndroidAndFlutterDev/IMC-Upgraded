@@ -17,8 +17,6 @@ import com.example.imcupgradedactivity.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.slider.RangeSlider
 
-
-
 class ImcUpgradedCalculatorActivity : AppCompatActivity() {
     private var isMaleSelected: Boolean =
         true                        //We set the isMaleSelected variable to true
