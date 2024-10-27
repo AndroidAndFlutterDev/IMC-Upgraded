@@ -2,7 +2,7 @@
 
 **Want to know how active you are?** This app is perfect for you!
 
-This app is an improved version of the Body Mass Index (BMI) calculator you'll find in the Android Basics course. 
+This app is an improved version of the Body Mass Index (BMI) calculator you'll find in the [Android Basic Course](https://github.com/AndroidAndFlutterDev/Android-Basic). 
 We've added new features to make it even more fun and useful.
 
 
