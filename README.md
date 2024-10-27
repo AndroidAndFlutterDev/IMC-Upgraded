@@ -1,4 +1,4 @@
-# Calculate your BMI! ️‍♂️
+# BMI Upgraded! ️‍♂️
 
 **Want to know how active you are?** This app is perfect for you!
 
